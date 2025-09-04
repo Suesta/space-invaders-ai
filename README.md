@@ -24,14 +24,11 @@ This project implements a fully customized **Space Invaders** game in Python wit
 - Pygame (or native modules, depending on version)
 - Custom physics and object control
 
-## 🎮 Screenshots
-
-*Coming soon*
-
 ## 📜 License
 
 MIT License
 
 ---
-
-© Víctor Suesta — 2025
+## 🔗 Author
+Víctor Suesta  
+[LinkedIn](https://www.linkedin.com/in/víctor-suesta-arribas-7b1250322/)
